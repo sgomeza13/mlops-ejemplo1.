@@ -9,7 +9,7 @@ import pickle
 
 # Defino parámetros --> La mejor práctica es hacerlo en un fichero aparte.
 # Pero por simplicidad incluyo todo junto,
-test_size = 0.2
+test_size = 0.5
 
 # Load data
 iris = load_iris(as_frame = True)
